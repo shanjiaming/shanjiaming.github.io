@@ -4,12 +4,10 @@
       "a",
       "article",
       "body",
-      "br",
       "button",
       "circle",
       "div",
       "footer",
-      "g",
       "h1",
       "h2",
       "h3",
@@ -26,7 +24,6 @@
       "ol",
       "p",
       "path",
-      "pre",
       "rb",
       "rt",
       "ruby",
@@ -182,25 +179,18 @@
       "z-10"
     ],
     "ids": [
-      "--building-cooperative-embodied-agents-modularly-with-large-language-model",
-      "--enabling-embodied-agents-to-help-constraint-agents",
-      "authors-andi-peng-weihua-du-jiaming-shan-tianmin-shu-chuang-gan",
-      "authors-hongxin-zhang-weihua-du-jiaming-shan-qinhong-zhou-yilun-du-joshua-b-tenenbaum-tianmin-shu-chuang-gan",
       "building-cooperative-embodied-agents-modularly-with-large-language-model",
       "constrained-human-ai-an-inclusive-embodied-ai-assistance-challenge",
-      "cvpr-2024-conference-submission",
-      "enabling-embodied-agents-to-help-constraint-agents",
-      "iclr-2024-under-review",
       "moon",
       "page-bg",
       "profile",
       "publication",
+      "publication-",
+      "publication-selected",
       "section-awards",
       "section-biography",
       "section-experience",
-      "sun",
-      "we-propose-chaic-a-3d-realistic-challenge-testing-human-ai-coordination-where-an-ai-helps-a-physically-constrained-human-in-household-tasks-it-focuses-on-ais-ability-to-understand-tasks-through-observation-identify-human-constraints-and-collaborate-effectively-using-the-tdw-constrained-simulator-it-offers-seven-tasks-for-evaluating-ais-social-interaction-and-intelligence",
-      "we-propose-coela-a-decentralized-multi-agent-system-that-uses-gpt-4s-language-abilities-for-effective-cooperation-in-complex-tasks-coela-combines-reasoning-and-communication-skills-with-perception-and-memory-outperforming-traditional-methods-it-shows-enhanced-cooperation-with-humans-and-potential-for-future-multi-agent-research"
+      "sun"
     ]
   }
 }

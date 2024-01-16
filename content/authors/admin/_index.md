@@ -196,7 +196,7 @@ develop new skills in open-ended worlds.
 
   - Authors: Hongxin Zhang*, Weihua Du*, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.
 
-  - ICLR, 2024 (Under Review)
+  - ICLR, 2024 Accept (poster)
    
   - We propose CoELA, a decentralized multi-agent system that uses GPT-4's language abilities for effective cooperation in complex tasks. CoELA combines reasoning and communication skills with perception and memory, outperforming traditional methods. It shows enhanced cooperation with humans and potential for future multi-agent research.
 
