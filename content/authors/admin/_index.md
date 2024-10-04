@@ -185,8 +185,9 @@ Awards:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently undergraduate student of Shanghai Jiao Tong University. I am interested in embodied AI and Foundation Models. My research interest lies in building generally capable embodied agents that continuously explore, plan, and
-develop new skills in open-ended worlds.
+I'm a CS PhD student in UCSB, advised by Wenbo Guo, Yu Feng, and Shiyu Chang. My current research interest is code generation model.
+
+Previously, I graduated from Shanghai Jiao Tong University ACM class, doing research about embodied AI and Foundation Models.
 
 ---
 
@@ -200,10 +201,3 @@ develop new skills in open-ended worlds.
    
   - We propose CoELA, a decentralized multi-agent system that uses GPT-4's language abilities for effective cooperation in complex tasks. CoELA combines reasoning and communication skills with perception and memory, outperforming traditional methods. It shows enhanced cooperation with humans and potential for future multi-agent research.
 
-   ## Constrained Human-AI: An Inclusive Embodied AI Assistance Challenge
-     
-  - Authors: Andi Peng*, Weihua Du*, Jiaming Shan*, Tianmin Shu, Chuang Gan
-   
-  - CVPR, 2024 (Conference Submission)
-   
-  - We propose CHAIC, a 3D realistic challenge testing human-AI coordination where an AI helps a physically constrained human in household tasks. It focuses on AI‘s ability to understand tasks through observation, identify human constraints, and collaborate effectively. Using the TDW-Constrained simulator, it offers seven tasks for evaluating AI's social interaction and intelligence.
