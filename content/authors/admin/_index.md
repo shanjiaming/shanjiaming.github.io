@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student of Shanghai Jiao Tong University
+role: CS PhD of UCSB
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -185,7 +185,8 @@ Awards:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I'm a CS PhD student in UCSB, advised by Wenbo Guo, Yu Feng, and Shiyu Chang. My current research interest is code generation model.
+I'm a CS PhD student in UCSB, advised by Prof. Yu Feng. My current research interest is Programming Language and BlockChain. 
+I'm also interested in AI.
 
 Previously, I graduated from Shanghai Jiao Tong University ACM class, doing research about embodied AI and Foundation Models.
 
