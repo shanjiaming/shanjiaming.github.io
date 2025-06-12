@@ -21,7 +21,7 @@ role: CS PhD of UCSB
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanghai Jiao Tong University
+  - name: Bachlor of Shanghai Jiao Tong University
     url: https://en.sjtu.edu.cn/
 
 # Social network links
@@ -185,12 +185,12 @@ Awards:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I'm a CS PhD student in UCSB, advised by Prof. Yu Feng. My current research interest is Programming Language and Formal Verification. 
+I'm a CS PhD student in UCSB, advised by Prof. Yu Feng. My current research topic is Programming Language and Formal Verification. 
 Now I'm working on projects that is related to 
-- smart contracts 
 - AI for math.
+- smart contracts 
 
-I'm also interested in AI.
+I'm also interested in AI, including training, embodied agents, etc.
 
 Previously, I graduated from Shanghai Jiao Tong University ACM class, doing research about embodied AI and Foundation Models.
 
@@ -202,7 +202,16 @@ Previously, I graduated from Shanghai Jiao Tong University ACM class, doing rese
 
   - Authors: Hongxin Zhang*, Weihua Du*, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.
 
-  - ICLR, 2024 Accept (poster)
+  - ICLR, 2024 (poster)
    
   - We propose CoELA, a decentralized multi-agent system that uses GPT-4's language abilities for effective cooperation in complex tasks. CoELA combines reasoning and communication skills with perception and memory, outperforming traditional methods. It shows enhanced cooperation with humans and potential for future multi-agent research.
+
+
+   ## Building Cooperative Embodied Agents Modularly with Large Language Model
+
+  - Authors: Weihua Du, Qiushi Lyu, Jiaming Shan, Zhenting Qi, Hongxin Zhang, Sunli Chen, Andi Peng, Tianmin Shu, Kwonjoon Lee, Behzad Dariush, Chuang Gan
+
+  - NeurIPS 2024 Track Datasets and Benchmarks Poster
+   
+  - We introduce Constrained Human-AI Cooperation (CHAIC), an embodied AI challenge centered on social intelligence. Agents must infer human intent and constraints and cooperatively assist with everyday tasks. Our benchmark features new constrained human agents and diverse, long-horizon indoor/outdoor scenarios. We evaluate baselines and propose a new LLM-based method, demonstrating CHAIC's effectiveness in assessing machine social intelligence.
 
