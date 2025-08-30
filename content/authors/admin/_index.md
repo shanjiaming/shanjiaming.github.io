@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:shanjiaming8888@gmail.com'
+    url: 'mailto:jiamingshan@ucsb.edu'
     label: E-mail Me
 #   - icon: brands/x
     # url: https://twitter.com/GetResearchDev
@@ -185,12 +185,7 @@ Awards:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I'm a CS PhD student in UCSB, advised by Prof. Yu Feng. My current research topic is Programming Language and Formal Verification. 
-Now I'm working on projects that is related to 
-- AI for math.
-- smart contracts 
-
-I'm also interested in AI, including training, embodied agents, etc.
+I'm a CS PhD student in UCSB. My current research topic is AI for math.
 
 Previously, I graduated from Shanghai Jiao Tong University ACM class, doing research about embodied AI and Foundation Models.
 
@@ -198,14 +193,20 @@ Previously, I graduated from Shanghai Jiao Tong University ACM class, doing rese
 
 # Publication
 
-   ## Building Cooperative Embodied Agents Modularly with Large Language Model
+   ## Angelic Proving: Optimistic Proof Checking and Human-Oracle Refinement for Scalable Auto-Formalization
 
-  - Authors: Hongxin Zhang*, Weihua Du*, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.
+  - Authors: Yanju Chen, Ruizhe Qian, Jiaming Shan, Xu Yang, Yufei Ding, Osbert Bastani, Yu Feng
 
-  - ICLR, 2024 (poster)
-   
-  - We propose CoELA, a decentralized multi-agent system that uses GPT-4's language abilities for effective cooperation in complex tasks. CoELA combines reasoning and communication skills with perception and memory, outperforming traditional methods. It shows enhanced cooperation with humans and potential for future multi-agent research.
+  - Conference/Journal: ICSE, 2026 (submission)
 
+  - We introduce MathEye, a framework to scale the auto-formalization of complex mathematical theorems where current methods fail. MathEye combines two key techniques: "angelic proving" to optimistically check incomplete proof sketches, and human-oracle intervention to refine difficult steps. This approach efficiently prunes invalid proofs and simplifies problems for either automatic resolution or expert input. On the PutnamBench suite, MathEye achieved over 98% accuracy with minimal human input, significantly outperforming strong baselines.
+
+
+   ## Sentinel: Adaptive Counter-Attack Synthesis for Mitigating Onchain Exploits
+
+  - Authors: Yanju Chen, Jiaming Shan, Hanzhi Liu, Jiaxin Song, Hongbo Wen, Yu Feng
+
+  - We introduce Sentinel, the first fully automated run-time defense against DeFi exploits. When an attack is detected, Sentinel analyzes it on the fly, understands the attacker's goal, and synthesizes an optimal counter-attack contract to front-run the exploit and rescue the assets. Evaluated on 24 real-world exploits, Sentinel successfully generated mitigations in all cases, saving a potential $10M and outperforming state-of-the-art defenses by over 1,000x. Already deployed in pilot programs, it has neutralized five novel attacks, proving its practicality as a last line of defense for smart contracts.
 
    ## Building Cooperative Embodied Agents Modularly with Large Language Model
 

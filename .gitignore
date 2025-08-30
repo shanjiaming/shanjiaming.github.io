@@ -1,1 +1,3 @@
 resources/
+__MACOSX__/
+.DS_Store
