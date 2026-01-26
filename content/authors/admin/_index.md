@@ -80,12 +80,3 @@ Previously, I graduated from Shanghai Jiao Tong University (ACM Honors Class).
 ## Building Cooperative Embodied Agents Modularly with Language Models
 - Authors: Hongxin Zhang*, Weihua Du*, **Jiaming Shan**, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan
 - Conference: **ICLR 2024**
-
-## Angelic Proving: Optimistic Proof Checking and Human-Oracle Refinement for Scalable Auto-Formalization
-- Authors: Yanju Chen, Ruizhe Qian, **Jiaming Shan**, Xu Yang, Yufei Ding, Osbert Bastani, Yu Feng
-- Status: Submission (ICSE 2026)
-- Description: We introduce **MathEye**, a framework to scale the auto-formalization of mathematical theorems by integrating LLM-guided decomposition with optimistic proof-checking.
-
-## Sentinel: Adaptive Counter-Attack Synthesis for Mitigating Onchain Exploits
-- Authors: Yanju Chen, **Jiaming Shan**, Hanzhi Liu, Jiaxin Song, Hongbo Wen, Yu Feng
-- Description: We introduce Sentinel, the first fully automated run-time defense against DeFi exploits.
