@@ -21,8 +21,8 @@ role: CS PhD Student at UCSB
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanghai Jiao Tong University (Bachelor)
-    url: https://en.sjtu.edu.cn/
+  - name: University of California, Santa Barbara
+    url: https://www.ucsb.edu/
 
 # Social network links
 profiles:
@@ -37,6 +37,11 @@ profiles:
     url: https://scholar.google.com/citations?user=wDZa8XcAAAAJ&hl=en
 
 education:
+  - Major: PhD student in Computer Science
+    institution: University of California, Santa Barbara
+    date_start: 2024-09-01
+    date_end: ''
+    summary: ''
   - Major: Bachelor of Computer Science and Technology (Zhiyuan Honors Program)
     institution: Shanghai Jiao Tong University 
     class: ACM Honors Class, an elite CS program for top 5% talented students
