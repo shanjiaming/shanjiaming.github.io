@@ -53,7 +53,7 @@ Awards:
     awarder: Shanghai Jiao Tong University
 ---
 
-I am a Ph.D. student at the University of California, Santa Barbara (UCSB), advised by Prof. Eric Xin Wang. My research focuses on **Large Language Models, Autonomous Agents, Reasoning, and Long-Context Algorithms**.
+I am a Ph.D. student at the University of California, Santa Barbara (UCSB). My research focuses on **Large Language Models, Autonomous Agents, Reasoning, and Long-Context Algorithms**.
 
 **Research Philosophy:** I strive to vertically integrate high-level agentic capabilities with low-level algorithmic innovations, treating model architecture and agent frameworks as unified means to realize scalable and capable AI.
 
