@@ -56,7 +56,18 @@ Awards:
   - title: National Scholarship Award
     date: '2023-10-01'
     awarder: Shanghai Jiao Tong University
+    awarder: Shanghai Jiao Tong University
 ---
+
+# Experience
+
+## Nubit
+- **Role**: Research Intern
+- **Advisor**: Prof. Yu Feng
+- **Date**: Jun 2025 -- Aug 2025
+- **Description**: Developed **Sentinel**, a fully automated run-time defense system that neutralizes pending key on-chain exploits. Designed a conflict-driven optimization loop to synthesize counter-attack smart contracts under strict gas and safety constraints. Evaluated on 33 real-world DeFi exploits, preserving an estimated \$167M. The work resulted in the paper ``Adaptive Counter-Attack Synthesis for Mitigation of Onchain Exploits'' (Submitted to ISSTA 2026).
+
+
 
 I am a Ph.D. student at the University of California, Santa Barbara (UCSB). My research focuses on **Large Language Models, Autonomous Agents, Reasoning, and Long-Context Algorithms**.
 
