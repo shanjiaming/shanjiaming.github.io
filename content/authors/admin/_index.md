@@ -68,6 +68,11 @@ Previously, I graduated from Shanghai Jiao Tong University (ACM Honors Class).
 
 # Publications & Manuscripts
 
+## Adaptive Counter-Attack Synthesis for Mitigation of Onchain Exploits
+- Authors: Hanzhi Liu, Yanju Chen, **Jiaming Shan**, Jiaxin Song, Chaofan Shou, Hongbo Wen, Yu Feng
+- Status: Submitted to **ISSTA 2026**
+- Description: Present Sentinel, a fully automated run-time defense that converts an in-flight exploit into an optimal counter-attack contract on the fly.
+
 ## Mid-Segment Editing: Teaching Language Models to Maintain Precise State Through Efficient In-Context Editing
 - Authors: **Jiaming Shan**, Yuzhou Nie, Eric Xin Wang
 - Status: Targeting **COLM 2026**
