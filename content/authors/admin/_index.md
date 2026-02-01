@@ -64,7 +64,7 @@ Awards:
 ## Nubit
 - **Role**: Smart Contract Security Researcher
 - **Advisor**: Prof. Yu Feng
-- **Date**: Jun 2025 -- Aug 2025
+- **Date**: Jun 2025 -- Sep 2025
 - **Description**: Developed **Sentinel**, a fully automated run-time defense system that neutralizes pending key on-chain exploits. Designed a conflict-driven optimization loop to synthesize counter-attack smart contracts under strict gas and safety constraints. Evaluated on 33 real-world DeFi exploits, preserving an estimated \$167M. The work resulted in the paper ``Adaptive Counter-Attack Synthesis for Mitigation of Onchain Exploits'' (Submitted to ISSTA 2026).
 
 
