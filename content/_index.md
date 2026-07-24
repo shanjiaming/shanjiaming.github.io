@@ -24,25 +24,5 @@ sections:
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-#   - block: skills
-#     content:
-#       title: Programs
-#       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
-#   - block: languages
-#     content:
-#       title: Languages
-#       username: admin
+        style: 'text-align: left; font-size: 0.95em;'
 ---
