@@ -41,9 +41,9 @@ I have experience building agent systems. Previously, I earned my B.S. in Comput
 
 # Publications & Manuscripts
 
-## [Learning When Not to Attend Globally](https://arxiv.org/abs/2512.22562)
+## Learning When Not to Attend Globally
 **All-or-Here Attention (AHA)**; **Jiaming Shan**\*, Xuan Luo\*, Wesley Truong, Kailai Zhang, Hanzhe Zhang, Xifeng Yan<br>
-*arXiv preprint; equal contribution*
+*Manuscript; equal contribution*
 
 Proposed a token-level adaptive attention mechanism whose binary router switches each attention head between full and sliding-window attention. AHA replaces up to **88% of full-attention operations without performance loss** and complements sparse-attention frameworks such as DuoAttention.
 
