@@ -31,7 +31,7 @@ profiles:
     url: https://scholar.google.com/citations?user=wDZa8XcAAAAJ&hl=en
 ---
 
-I am a direct-entry Ph.D. student in Computer Science at the University of California, Santa Barbara (UCSB), advised by [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). I am currently interning at Tencent Cloud WorkBuddy on post-training, reinforcement learning, and RSI, and I plan to master out with a master's degree in June 2027. My research focuses on **LLM efficiency, model architecture, speculative decoding, sparse and long-context attention, and autonomous agents**.
+I am a direct-entry Ph.D. student in Computer Science at the University of California, Santa Barbara (UCSB), advised by [Prof. Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/). I am currently interning at Tencent Cloud WorkBuddy on post-training, reinforcement learning, and RSI, and I plan to master out with a master's degree in July 2027. My research focuses on **LLM efficiency, model architecture, speculative decoding, sparse and long-context attention, and autonomous agents**.
 
 I aim to connect high-level agentic capabilities with low-level algorithmic innovations, treating model architecture and agent frameworks as complementary paths toward scalable, capable AI.
 
@@ -41,11 +41,11 @@ I have experience building agent systems. Previously, I earned my B.S. in Comput
 
 # Publications & Manuscripts
 
-## Learning When Not to Attend Globally
-**All-or-Here Attention (AHA)**; **Jiaming Shan**\*, Xuan Luo\*, Wesley Truong, Kailai Zhang, Hanzhe Zhang, Xifeng Yan<br>
-*Manuscript; equal contribution*
+## [Learning When Not to Attend Globally](/uploads/aha-manuscript.pdf)
+**All-or-Here Attention (AHA)**; Xuan Luo\*, **Jiaming Shan**\*, Wesley Truong, Kailai Zhang, Hanzhe Zhang, Xifeng Yan<br>
+*[Manuscript PDF](/uploads/aha-manuscript.pdf) (anonymous review copy); equal contribution*
 
-Proposed a token-level adaptive attention mechanism whose binary router switches each attention head between full and sliding-window attention. AHA replaces up to **88% of full-attention operations without performance loss** and complements sparse-attention frameworks such as DuoAttention.
+Proposed a token-level adaptive attention mechanism whose binary router switches each attention head between global and sliding-window attention. On OLMo-2-1B with a 128-token window, **88.4% of token-head decisions chose local attention** with comparable aggregate performance across six benchmarks. AHA also improves DuoAttention as an orthogonal routing layer.
 
 ## [Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants](https://arxiv.org/abs/2604.00842)
 Deepak Nathani, Cheng Zhang, Chang Huan, **Jiaming Shan**, Yinfei Yang, Alkesh Patel, Zhe Gan, William Yang Wang, Michael Saxon, Xin Eric Wang<br>
