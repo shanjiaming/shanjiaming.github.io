@@ -49,7 +49,7 @@ Proposed a token-level adaptive attention mechanism whose binary router switches
 
 ## [Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants](https://arxiv.org/abs/2604.00842)
 Deepak Nathani, Cheng Zhang, Chang Huan, **Jiaming Shan**, Yinfei Yang, Alkesh Patel, Zhe Gan, William Yang Wang, Michael Saxon, Xin Eric Wang<br>
-*arXiv preprint, 2026*
+*NeurIPS 2026 Workshop on Evaluation of Interactive Agents (IAEval), accepted poster*
 
 Built benchmark and environment abstractions for proactive and mobile agents, including finite-state-machine app modeling, goal inference, and multi-app orchestration evaluation.
 
